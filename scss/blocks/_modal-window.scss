@@ -1,0 +1,30 @@
+.modal-window {
+    position: fixed;
+    width: 400px;
+    height: 80px;
+    right: 40px;
+    bottom: 50px;
+    background-color: #9BE198;
+    color: #000000;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 18px;
+    z-index: 10;
+    border: none;
+    opacity: 1;
+    animation: opacity 0.2s ease-in 10s 1 forwards;
+
+    &--fail {
+        background-color: #7d0404;
+        color: #ffffff;
+    }
+
+    @keyframes opacity {
+        from {
+            opacity: 1;
+        }
+        to {
+            opacity: 0;
+        } 
+    }
+}
