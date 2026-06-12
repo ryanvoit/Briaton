@@ -6,6 +6,11 @@
 
 Как только вы откроете приложение, Вам откроется сайт. На нем будут представлены каталог магазина, продающего светильники. Вы сможете выбрать в header город, в котором вы находитесь, и открыть бургерное меню, нажав на  кнопку 'каталог' и закрыть меню, нажав на крестик. Эти товары Вы сможете добавить в корзину и убирать из неё, отфильтровать по категориям светильников, по статусу (все/в наличии), отсортировать по цене или популярности. На сайте присутствует пагинация. Также есть блок товаров дня, реализованный в виде слайдера с помощью *Swiper.js*. Ниже в блоке "Ответы на частые вопросы от покупателей" выполнен функционал аккордеона. Также добавлена валидация формы для блока "Сложно выбрать? Отбратитесь к нам и мы поможем" с помощью *Just-validate*. 
 
+<img width="1920" height="1138" alt="image" src="https://github.com/user-attachments/assets/fc3d6665-a66e-41f9-9af9-9c41763c2996" />
+<img width="1920" height="1136" alt="image" src="https://github.com/user-attachments/assets/6df1fb5c-2549-4295-8ad0-6b249f23a91e" />
+<img width="1920" height="1135" alt="image" src="https://github.com/user-attachments/assets/6888b679-e34f-4b00-90d5-0ce594e8cf1a" />
+<img width="1920" height="1127" alt="image" src="https://github.com/user-attachments/assets/5dce7e25-7286-4a23-944f-854e7972f0f2" />
+
 ## Ссылка на макет Figma
 
 https://www.figma.com/design/LwQ6blgDCgM4NoNXeXiRpO/Skillbox-×-AffArts-%3A%3A-Briaton?node-id=0-1&t=P3an92eAD3cssD5h-1
